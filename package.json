@@ -2,13 +2,13 @@
   "name": "auto-package-sync",
   "main": "./lib/auto-package-sync",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Auto sync Atom packages through git repository",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "auto-package-sync:toggle"
   },
-  "repository": "https://github.com/atom/auto-package-sync",
+  "repository": "https://github.com/supasate/auto-package-sync.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
