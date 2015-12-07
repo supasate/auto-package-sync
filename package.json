@@ -1,0 +1,18 @@
+{
+  "name": "auto-package-sync",
+  "main": "./lib/auto-package-sync",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "auto-package-sync:toggle"
+  },
+  "repository": "https://github.com/atom/auto-package-sync",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
